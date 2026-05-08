@@ -1,13 +1,33 @@
 # dskripchenko/laravel-admin-quill
 
-Альтернативный WYSIWYG-движок поверх Quill (BSD-3-Clause) для `dskripchenko/laravel-admin`. Поддержка output `html` и `delta`.
+> 🌐 **English** · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md)
 
-Полная спецификация: [../../docs/sister-packs/quill.md](../../docs/sister-packs/quill.md).
+Alternative WYSIWYG engine on top of Quill (BSD-3-Clause). Outputs html and delta. Drop-in replacement for the default WYSIWYG field.
 
-## Статус
+A sister-pack for [`dskripchenko/laravel-admin`](https://github.com/dskripchenko/laravel-admin).
 
-Локальный dev (монорепо `dskripchenko/laravel-admin`). Перед релизом — отдельный репозиторий.
+[![Packagist](https://img.shields.io/packagist/v/dskripchenko/laravel-admin-quill)](https://packagist.org/packages/dskripchenko/laravel-admin-quill)
+[![License](https://img.shields.io/packagist/l/dskripchenko/laravel-admin-quill)](LICENSE)
 
-## Лицензия
+## Install
 
-MIT.
+```bash
+composer require dskripchenko/laravel-admin-quill
+php artisan migrate
+```
+
+The plugin auto-registers via Laravel package discovery. To publish the
+config:
+
+```bash
+php artisan vendor:publish --tag=quill-config
+```
+
+## Documentation
+
+- [Getting started](docs/en/getting-started.md)
+- [Usage](docs/en/usage.md)
+
+## License
+
+[MIT](LICENSE) © Denis Skripchenko
