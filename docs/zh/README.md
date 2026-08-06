@@ -1,6 +1,6 @@
 # dskripchenko/laravel-admin-quill
 
-> 🌐 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · **中文**
+> 🌐 [English](../../README.md) · [Русский](../ru/README.md) · [Deutsch](../de/README.md) · **中文**
 
 基于 Quill (BSD-3-Clause) 的替代 WYSIWYG 引擎。输出 html 和 delta。默认 WYSIWYG 字段的即插即用替代品。
 
@@ -17,9 +17,9 @@ php artisan migrate
 
 ## 文档
 
-- [快速开始](docs/en/getting-started.md) (en)
-- [使用](docs/en/usage.md) (en)
+- [快速开始](../../docs/en/getting-started.md) (en)
+- [使用](../../docs/en/usage.md) (en)
 
 ## 许可证
 
-[MIT](LICENSE) © Denis Skripchenko
+[MIT](../../LICENSE) © Denis Skripchenko

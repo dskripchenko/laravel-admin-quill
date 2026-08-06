@@ -1,6 +1,6 @@
 # dskripchenko/laravel-admin-quill
 
-> 🌐 **English** · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md)
+> 🌐 **English** · [Русский](docs/ru/README.md) · [Deutsch](docs/de/README.md) · [中文](docs/zh/README.md)
 
 Alternative WYSIWYG engine on top of Quill (BSD-3-Clause). Outputs html and delta. Drop-in replacement for the default WYSIWYG field.
 
