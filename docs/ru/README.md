@@ -5,7 +5,7 @@
 
 Альтернативный WYSIWYG-движок поверх Quill (BSD-3-Clause) для `dskripchenko/laravel-admin`. Поддержка output `html` и `delta`.
 
-Полная спецификация: [laravel-admin/docs/sister-packs/quill.md](https://github.com/dskripchenko/laravel-admin/blob/main/docs/sister-packs/quill.md).
+Полная спецификация: [laravel-admin/docs/ru/sister-packs/quill.md](https://github.com/dskripchenko/laravel-admin/blob/main/docs/ru/sister-packs/quill.md).
 
 ## Статус
 
