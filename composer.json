@@ -1,6 +1,6 @@
 {
     "name": "dskripchenko/laravel-admin-quill",
-    "description": "Альтернативный WYSIWYG-движок (Quill) для dskripchenko/laravel-admin.",
+    "description": "Quill as an alternative WYSIWYG engine for dskripchenko/laravel-admin.",
     "type": "library",
     "keywords": [
         "laravel",
